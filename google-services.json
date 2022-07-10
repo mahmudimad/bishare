@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "250899433800",
+    "firebase_url": "https://bishare-48db5-default-rtdb.firebaseio.com",
+    "project_id": "bishare-48db5",
+    "storage_bucket": "bishare-48db5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250899433800:android:982f8764221e4e5666cb7d",
+        "android_client_info": {
+          "package_name": "com.polibatam.bishare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250899433800-jg2li7celn8b6ufqnmie0s49ic5k7fbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7oZ5gK_4JfibKyOXG4oXqleART-e8vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250899433800-jg2li7celn8b6ufqnmie0s49ic5k7fbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

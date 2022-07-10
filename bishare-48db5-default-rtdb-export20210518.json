@@ -1,0 +1,725 @@
+{
+  "chatmessages" : {
+    "1" : [ null, {
+      "count" : 1,
+      "dlt" : false,
+      "message" : "test pesan sendiri",
+      "messagedate" : "2021-04-08 08:18:46",
+      "sentby" : 1
+    } ],
+    "count" : 1
+  },
+  "chats" : {
+    "1" : {
+      "members" : {
+        "iswithtoko" : false,
+        "lastmessagesent" : "ok",
+        "tokoid" : "",
+        "userid1" : 1,
+        "userid2" : 1
+      }
+    },
+    "count" : 1
+  },
+  "info" : {
+    "connected" : true
+  },
+  "kategori" : {
+    "1" : {
+      "dlt" : false,
+      "kategoricode" : "Baju",
+      "kategoridesc" : "Baju",
+      "kategoriid" : 1,
+      "kategoriname" : "Baju"
+    },
+    "2" : {
+      "dlt" : true,
+      "kategoricode" : "Celana",
+      "kategoridesc" : "Celanas",
+      "kategoriid" : 2,
+      "kategoriname" : "Celana"
+    },
+    "3" : {
+      "dlt" : false,
+      "kategoricode" : "Celana",
+      "kategoridesc" : "test",
+      "kategoriid" : 3,
+      "kategoriname" : "Celana"
+    },
+    "4" : {
+      "dlt" : false,
+      "kategoricode" : "Tas",
+      "kategoridesc" : "tas",
+      "kategoriid" : 4,
+      "kategoriname" : "Tas"
+    },
+    "5" : {
+      "dlt" : false,
+      "kategoricode" : "Sandal",
+      "kategoridesc" : "Sandal",
+      "kategoriid" : 5,
+      "kategoriname" : "Sandal"
+    },
+    "count" : 5
+  },
+  "keranjang" : {
+    "1" : {
+      "6" : {
+        "dlt" : false,
+        "harga" : "204750",
+        "key" : "6",
+        "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/6/1.jpg",
+        "produkid" : 6,
+        "produkname" : "TAS RANSEL TAS PUNGGUNG BACKPACK KANVAS LAPTOP BESAR FASHION PRIA WANITA COWOK CEWEK TRAVELING",
+        "stok" : 1,
+        "userid" : "1"
+      },
+      "7" : {
+        "dlt" : true,
+        "harga" : "65000",
+        "key" : "7",
+        "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/7/7.jpg",
+        "produkid" : 7,
+        "produkname" : "Mynt By Mayonette Lolly Sling Bag - Womens Sling Bag - Tas Fashion Wanita",
+        "stok" : 0,
+        "userid" : "1"
+      },
+      "10" : {
+        "dlt" : false,
+        "harga" : "35000",
+        "key" : "10",
+        "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/10/13.jpg",
+        "produkid" : 10,
+        "produkname" : "baju ELELYON",
+        "stok" : 2,
+        "userid" : "1"
+      }
+    },
+    "undefined" : {
+      "6" : {
+        "dlt" : false,
+        "harga" : "204750",
+        "key" : "6",
+        "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/6/1.jpg",
+        "produkid" : 6,
+        "produkname" : "TAS RANSEL TAS PUNGGUNG BACKPACK KANVAS LAPTOP BESAR FASHION PRIA WANITA COWOK CEWEK TRAVELING",
+        "stok" : 2,
+        "userid" : 1
+      }
+    }
+  },
+  "produk" : {
+    "6" : {
+      "deskripsi" : "Selamat datang di Official Store of 'WELLFLAIR' Apparel.\r\nJadikan kami temanmu untuk menemani segala petualangan dan hari kalian !\r\n_______________________________________________________________________\r\nKhusus untuk pembelian di PERIODE INI, temen-temen akan mendapat GOODIE BAG GRATIS !!!!\r\n_______________________________________________________________________\r\nKODE : 18UNXN 'Unisex' Backpack by Wellflair\r\nWARNA : NAVY/BIRU TUA\r\n\r\nMATERIAL:\r\nUtama : Kanvas Premium\r\nInner : Furing Premium, laptos case lapis busa\r\nAccesories : zipper YKK, webbing premium, kulit sintetis\r\nSIZE:28x16x31 cm\r\nVARIAN WARNA (untuk ketersediaan warna lain, dapat di lihat di etalase toko kami) :\r\n- Mocca/Cokelat Muda\r\n- Black/Hitam\r\n-Navy/Biru Tua",
+      "dlt" : false,
+      "fitur" : "FITUR:\r\n✔️ laptop sleeve up to 15 inchi\r\n✔️ kuat membawa barang hingga 13 kg\r\n✔️ 1 kantong utama + 3 kantong pendukung (1 di depan & 2 di kanan kiri)\r\n✔️ bahan tebal & kuat (kombinasi kulit sintetis di dasar tas)",
+      "harga" : "204750",
+      "kategoriid" : "4",
+      "kategoriname" : "Tas",
+      "key" : "6",
+      "likecount" : 1,
+      "produkcode" : "TAS RANSE",
+      "produkdate" : "2021-04-08 08:18:46",
+      "produkid" : 6,
+      "produkmedia" : {
+        "1" : {
+          "dlt" : false,
+          "mediadate" : "2021-04-08 08:20:40",
+          "mediaext" : "jpg",
+          "mediaid" : 1,
+          "medianama" : "1.jpg",
+          "mediasize" : 174666,
+          "mediatype" : "image",
+          "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/6/1.jpg",
+          "produkid" : 6
+        },
+        "5" : {
+          "dlt" : false,
+          "mediadate" : "2021-04-08 08:24:40",
+          "mediaext" : "jpg",
+          "mediaid" : 5,
+          "medianama" : "5.jpg",
+          "mediasize" : 99602,
+          "mediatype" : "image",
+          "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/6/5.jpg",
+          "produkid" : 6
+        },
+        "6" : {
+          "dlt" : false,
+          "mediadate" : "2021-04-08 08:25:48",
+          "mediaext" : "jpg",
+          "mediaid" : 6,
+          "medianama" : "6.jpg",
+          "mediasize" : 174666,
+          "mediatype" : "image",
+          "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/6/6.jpg",
+          "produkid" : 6
+        }
+      },
+      "produkmediacount" : 1,
+      "produkname" : "TAS RANSEL TAS PUNGGUNG BACKPACK KANVAS LAPTOP BESAR FASHION PRIA WANITA COWOK CEWEK TRAVELING",
+      "reviewavg" : 3,
+      "reviewcount" : 1,
+      "reviewtotal" : 3,
+      "spesifikasi" : "\r\nPERAWATAN :\r\nBiar warna tas kesayangan kalian tidak mudah pudar, nih aku kasih tips perawatannya :\r\n- Gunakan shampoo atau sabun bayi untuk mencuci\r\n- Lebih baik dicuci dengan tangan dan usahakan jangan pakai mesin cuci yaa\r\n- Bilas dengan air mengalir. Bukan direndam.\r\n- Usahakan menjemur di dalam ruangan (jangan menjemur dibawah sinar matahari langsung)\r\n___________________________________________________\r\nPengen jadi yang beda ?\r\nPengen barang kamu enggak banyak yang punya ?\r\nJADILAH PEMILIK 'WELLFLAIR' SEKARANG !\r\n\r\n#ransel #tasransel #backpack #taspunggung #tasransellaptop #tasranselpria #tasranselwanita #tasranselperempuan #tasransellaki #ranselwanita #ranselpria #taspunggungpria #taspunggungwanita #taspunggungperempuan #tasgunung",
+      "status" : "approve",
+      "stok" : "1",
+      "tokoid" : "1",
+      "tokoname" : "Sukses maju"
+    },
+    "7" : {
+      "deskripsi" : "MAYONETTE Lolly Sling Bag Womens ini hadir dengan berbagai kelebihan yang bisa ditawarkan dalam sebuah tas. Terbuat dari material kulit sintetis, tas ini tampil dalam desain minimalis Korean style yang dapat meningkatkan rasa percaya diri Anda selama beraktivitas. Hadir dengan satu buah kompartemen, Mayonette Lolly Sling sempurna untuk Anda yang ingin tampil chic dan gaya.",
+      "dlt" : false,
+      "fitur" : "Info tambahan : Seluruh foto produk MAYONETTE adalah foto barang sesungguhnya. Namun karena pencahayaan & pengaturan layar, warna produk dapat tampak lebih gelap atau lebih terang sehubungan dengan pengukuran produk yang dilakukan secara manual, ukuran produk dapat bergeser kurang lebih 5mm.",
+      "harga" : "65000",
+      "kategoriid" : "4",
+      "kategoriname" : "Tas",
+      "key" : "7",
+      "likecount" : 0,
+      "produkcode" : "Tas Fashion Wanita",
+      "produkdate" : "2021-04-08 08:27:25",
+      "produkid" : 7,
+      "produkmedia" : {
+        "7" : {
+          "dlt" : false,
+          "mediadate" : "2021-04-08 08:27:56",
+          "mediaext" : "jpg",
+          "mediaid" : 7,
+          "medianama" : "7.jpg",
+          "mediasize" : 145407,
+          "mediatype" : "image",
+          "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/7/7.jpg",
+          "produkid" : 7
+        },
+        "8" : {
+          "dlt" : false,
+          "mediadate" : "2021-04-08 08:28:18",
+          "mediaext" : "jpg",
+          "mediaid" : 8,
+          "medianama" : "8.jpg",
+          "mediasize" : 143605,
+          "mediatype" : "image",
+          "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/7/8.jpg",
+          "produkid" : 7
+        },
+        "9" : {
+          "dlt" : false,
+          "mediadate" : "2021-04-08 08:28:37",
+          "mediaext" : "jpg",
+          "mediaid" : 9,
+          "medianama" : "9.jpg",
+          "mediasize" : 119101,
+          "mediatype" : "image",
+          "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/7/9.jpg",
+          "produkid" : 7
+        }
+      },
+      "produkmediacount" : 0,
+      "produkname" : "Mynt By Mayonette Lolly Sling Bag - Womens Sling Bag - Tas Fashion Wanita",
+      "spesifikasi" : "- Ukuran 21 x 12 x 2 Cm\r\n- Material kulit sintetis berkualitas\r\n- Tersedia dengan berbagai pilihan warna\r\n- Dengan Furing di dalam dan Tahan air\r\n- Desain menarik dan fashionable\r\n- Penutup ritsleting\r\n- 1 Ruang utama\r\n- Dengan tali panjang\r\n- Muat untuk HP, dompet, powerbank, kunci, kacamata, dll.",
+      "status" : "approve",
+      "stok" : "15265",
+      "tokoid" : "1",
+      "tokoname" : "Sukses maju"
+    },
+    "8" : {
+      "alasan" : "",
+      "deskripsi" : "*Mohon baca keterangan size sebelum membeli. Untuk handphone size besar bisa pesan size Large (beda SKU). Kontak kami untuk konsultasi size 😊*\r\n\r\n\r\nPouch multifungsi untuk menyimpan handphone, kartu, dan cash",
+      "dlt" : false,
+      "fitur" : "Bagian depan untuk slot handphone \r\nBagian samping untuk dompet\r\nBagian belakang dilengkapi 3 slot kartu\r\n\r\nCocok untuk mempermudah aktivitas singkatmu",
+      "harga" : "89000",
+      "kategoriid" : "4",
+      "kategoriname" : "Tas",
+      "produkcode" : "Phone Sling",
+      "produkdate" : "2021-04-08 08:29:54",
+      "produkid" : 8,
+      "produkmedia" : {
+        "10" : {
+          "dlt" : false,
+          "mediadate" : "2021-04-08 08:30:26",
+          "mediaext" : "jpg",
+          "mediaid" : 10,
+          "medianama" : "10.jpg",
+          "mediasize" : 116849,
+          "mediatype" : "image",
+          "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/8/10.jpg",
+          "produkid" : 8
+        },
+        "11" : {
+          "dlt" : false,
+          "mediadate" : "2021-04-08 08:34:25",
+          "mediaext" : "jpg",
+          "mediaid" : 11,
+          "medianama" : "11.jpg",
+          "mediasize" : 126702,
+          "mediatype" : "image",
+          "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/8/11.jpg",
+          "produkid" : 8
+        }
+      },
+      "produkmediacount" : 0,
+      "produkname" : "Phone Sling",
+      "spesifikasi" : "SIZE: 11X17cm\r\nPanjang tali: 52cm",
+      "status" : "approve",
+      "stok" : "69",
+      "tokoid" : "1",
+      "tokoname" : "Sukses maju"
+    },
+    "9" : {
+      "alasan" : "",
+      "deskripsi" : "PREORDER MOI SANDALS\r\n\r\nHARAP CANTUMKAN SIZE DI NOTES/CHAT ADMIN KAMI",
+      "dlt" : false,
+      "fitur" : "",
+      "harga" : "219000",
+      "kategoriid" : "5",
+      "kategoriname" : "Sandal",
+      "produkcode" : "MOI SANDALS",
+      "produkdate" : "2021-04-08 08:36:50",
+      "produkid" : 9,
+      "produkmedia" : {
+        "12" : {
+          "dlt" : false,
+          "mediadate" : "2021-04-08 08:37:05",
+          "mediaext" : "jpg",
+          "mediaid" : 12,
+          "medianama" : "12.jpg",
+          "mediasize" : 114703,
+          "mediatype" : "image",
+          "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/9/12.jpg",
+          "produkid" : 9
+        }
+      },
+      "produkmediacount" : 0,
+      "produkname" : "PREORDER MOI SANDALS",
+      "spesifikasi" : "*Size Chart*\r\n36  =23 cm\r\n37  =24 cm\r\n38  =24,5 cm\r\n39  =25 cm\r\n40  =25,4 cm",
+      "status" : "approve",
+      "stok" : "92",
+      "tokoid" : "1",
+      "tokoname" : "Sukses maju"
+    },
+    "10" : {
+      "deskripsi" : "Deskripsi Produk\r\n100% Foto Asli\r\n\r\nBahan Soft Cotton Combed 30S (Bahan Lembut Dan Tidak Panas)\r\n\r\nSablon Rubber (Tidak Mudah Rusak)\r\n\r\nJahitan Double Stick dan Rapih\r\n\r\nBarang Ready Selama Iklan Masih Ada",
+      "dlt" : false,
+      "fitur" : "UKURAN :\r\n- M (LINGKAR DADA 86CM, PANJANG 62CM)(KAOS POLOS)\r\n- L   (LINGKAR DADA 100CM, PANJANG 70CM)\r\n- XL (LINGKAR DADA 106CM,PANJANG 73CM)\r\n\r\n* PESANAN AKAN DI KIRIM DIHARI YANG SAMA PADA SAAT ANDA MELAKUKAN PEMESANAN (KECUALI MINGGU DAN LIBUR)\r\n\r\n* BARANG YANG DIKIRIM SESUAI GAMBAR, TIDAK MENERIMA REQUEST PERUBAHAN       ORDER DI CHAT/NOTES !!\r\n\r\n* JIKA BARANG YANG KAMU MAU KOSONG, AKAN KITA INFOKAN DULU SEBELUMNYA\r\n\r\n* BISA COD KE SELURUH INDONESIA\r\n\r\n** JIKA ADA BARANG YANG TIDAK SESUAI/CACAT JANGAN LANGSUNG LAKUKAN PENILAIAN, BISA HUBUNGI KAMI TERLEBIH DULU VIA CHAT\r\n\r\n\r\n*** KLAIM RETUR TIDAK DI SERTAKAN VIDEO UNBOXING TIDAK KAMI TERIMA. \r\n\r\n*** MEMBELI BERARTI SETUJU DENGAN KETENTUAN YANG BERLAKU \r\n    \r\n   \r\n#kaosdistro #kaosdistrobandung #kaos #kaosterlaris #kaostermurah #kaosterlarisdishopee #kaoskeren #kaosdepanbelakang #baju #bajudistro #bajudistrobandung #bajuterlaris #bajutermurah #bajuterlarisdishopee #bajukeren #terlarisdishopee #gratisongkir #gratisongkirxtra #stussy #samurai #kaossamurai #kaosstussy #tshirtlaku #tshirtmurah #tshirtkeren #tshirtdistro #kaosimmortal #immortal #kaosorangtua #kaosdrivermuda #kaoskatakata #onepiece #kaospria #shopeehaul",
+      "harga" : "35000",
+      "kategoriid" : "1",
+      "kategoriname" : "Baju",
+      "key" : "10",
+      "likecount" : 1,
+      "produkcode" : "ELELYON",
+      "produkdate" : "2021-04-20 14:30:12",
+      "produkid" : 10,
+      "produkmedia" : {
+        "13" : {
+          "dlt" : false,
+          "mediadate" : "2021-04-20 14:12:46",
+          "mediaext" : "jpg",
+          "mediaid" : 13,
+          "medianama" : "13.jpg",
+          "mediasize" : 94789,
+          "mediatype" : "image",
+          "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/10/13.jpg",
+          "produkid" : 10
+        },
+        "14" : {
+          "dlt" : true,
+          "mediadate" : "2021-04-20 14:14:54",
+          "mediaext" : "jpg",
+          "mediaid" : 14,
+          "medianama" : "14.jpg",
+          "mediasize" : 147354,
+          "mediatype" : "image",
+          "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/10/14.jpg",
+          "produkid" : 10
+        }
+      },
+      "produkmediacount" : 0,
+      "produkname" : "baju ELELYON",
+      "spesifikasi" : "Merek - Tidak Ada Merek\r\nBahan - Katun\r\nStyle - Casual\r\nPanjang Lengan - Pendek\r\nGaris Leher - Round Neck\r\nAsal Produk - Lokal\r\nStok - 10961\r\nDikirim Dari - KOTA JAKARTA UTARA - PADEMANGAN, DKI JAKARTA, ID",
+      "status" : "approve",
+      "stok" : "11",
+      "tokoid" : "4",
+      "tokoname" : 0
+    },
+    "11" : {
+      "deskripsi" : "Koko ORIGINAL katun toyobo import Grade A,\r\n\r\n adem lembut nyaman banget dipakai ditambah makin keren pastinya.\r\n",
+      "dlt" : false,
+      "fitur" : "√ Model Koko Modern Style\r\n√ Bahan toyobo import Grade A Terbaik\r\n√ Kancing exclusive\r\n√ kantong dada\r\n√ Jahitan Rapi & Kuat\r\n√ Cocok & Nyaman Dikenakan Sehari hari\r\n\r\n=== KENAPA BELI DI SINI? ===\r\n√ JAMINAN 100% PRODUK ORIGINAL\r\n√ PENGIRIMAN LANGSUNG DARI PUSATNYA\r\n√ FREE ONGKIR*",
+      "harga" : "90000",
+      "kategoriid" : "1",
+      "kategoriname" : "Baju",
+      "key" : "11",
+      "likecount" : 1,
+      "produkcode" : "Koko",
+      "produkdate" : "2021-04-26 08:32:26",
+      "produkid" : 11,
+      "produkmedia" : {
+        "15" : {
+          "dlt" : false,
+          "mediadate" : "2021-04-26 08:32:41",
+          "mediaext" : "jpg",
+          "mediaid" : 15,
+          "medianama" : "15.jpg",
+          "mediasize" : 282973,
+          "mediatype" : "image",
+          "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/11/15.jpg",
+          "produkid" : 11
+        }
+      },
+      "produkmediacount" : 0,
+      "produkname" : "Koko syubbanul muslimin koko azzahir koko baju",
+      "reviewavg" : 0,
+      "reviewcount" : 0,
+      "reviewtotal" : 0,
+      "spesifikasi" : "Ukuran M\r\nLingkar Dada: 104\r\nPanjang Lengan: 21\r\nPanjang Baju: 68\r\n\r\nUkuran L\r\nLingkar Dada: 110\r\nPanjang Lengan: 22\r\nPanjang Baju: 70\r\n\r\nUkuran XL\r\nLingkar Dada: 114\r\nPanjang Lengan: 23\r\nPanjang Baju: 72\r\n\r\n\r\n1 Kg = Muat 5pcs",
+      "status" : "approve",
+      "stok" : "10000",
+      "tokoid" : "1",
+      "tokoname" : "Sukses maju"
+    },
+    "12" : {
+      "alasan" : "",
+      "deskripsi" : "Asal Produk Lokal\r\nBahan Katun\r\nStyle Lengan Pendek\r\nStok 1817\r\nDikirim Dari KOTA JAKARTA BARAT - GROGOL PETAMBURAN, DKI JAKARTA, ID",
+      "dlt" : false,
+      "fitur" : "Bahan Katun Toyobo Premium (Lembut, Halus, Mengkilap, Licin & Tidak Mudah Lecek)",
+      "harga" : "63000",
+      "kategoriid" : "1",
+      "kategoriname" : "Baju",
+      "produkcode" : "LM 18844-18850 Baju Muslimin Koko Pria KOKO TOJIRO Bahan Toyobo Premium Berkualitas TERMURAH",
+      "produkdate" : "2021-04-26 08:37:24",
+      "produkid" : 12,
+      "produkmedia" : {
+        "16" : {
+          "dlt" : false,
+          "mediadate" : "2021-04-26 08:37:34",
+          "mediaext" : "jpg",
+          "mediaid" : 16,
+          "medianama" : "16.jpg",
+          "mediasize" : 136784,
+          "mediatype" : "image",
+          "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/12/16.jpg",
+          "produkid" : 12
+        }
+      },
+      "produkmediacount" : 0,
+      "produkname" : "LM 18844-18850 Baju Muslimin Koko Pria KOKO TOJIRO Bahan Toyobo Premium Berkualitas TERMURAH",
+      "spesifikasi" : "Ukuran\r\nM : Lingkar Dada 100 cm, Panjang 85 cm\r\nL : Lingkar Dada 106 cm, Panjang 86 cm\r\nXL : Lingkar Dada 112 cm, Panjang 87 cm\r\nXXL : Lingkar Dada 118 cm, Panjang 88 cm",
+      "status" : "approve",
+      "stok" : "04600",
+      "tokoid" : "1",
+      "tokoname" : "Sukses maju"
+    },
+    "count" : 12,
+    "produkmediacount" : 16
+  },
+  "produklike" : {
+    "6" : [ null, {
+      "islike" : true,
+      "key" : "1",
+      "produkid" : 6,
+      "userid" : "1"
+    } ],
+    "7" : [ null, {
+      "islike" : false,
+      "key" : "1",
+      "produkid" : 7,
+      "userid" : "1"
+    } ],
+    "10" : [ null, {
+      "islike" : true,
+      "produkid" : 10,
+      "userid" : "1"
+    } ],
+    "11" : [ null, {
+      "islike" : true,
+      "key" : "1",
+      "produkid" : 11,
+      "userid" : "1"
+    } ]
+  },
+  "rekomendasi" : {
+    "1" : {
+      "dlt" : true,
+      "produkid" : "1",
+      "produkname" : "Baju 1",
+      "rekomendasiid" : 1,
+      "urutan" : "1"
+    },
+    "2" : {
+      "dlt" : true,
+      "produkid" : "9",
+      "produkname" : "PREORDER MOI SANDALS",
+      "rekomendasiid" : 2,
+      "urutan" : "2"
+    },
+    "3" : {
+      "dlt" : true,
+      "produkid" : "10",
+      "produkname" : "baju ELELYON",
+      "rekomendasiid" : 3,
+      "urutan" : "1"
+    },
+    "4" : {
+      "dlt" : false,
+      "produkid" : "10",
+      "produkname" : "baju ELELYON",
+      "rekomendasiid" : 4,
+      "urutan" : "1"
+    },
+    "5" : {
+      "dlt" : false,
+      "produkid" : "6",
+      "produkname" : "TAS RANSEL TAS PUNGGUNG BACKPACK KANVAS LAPTOP BESAR FASHION PRIA WANITA COWOK CEWEK TRAVELING",
+      "rekomendasiid" : 5,
+      "urutan" : "2"
+    },
+    "count" : 5
+  },
+  "review" : {
+    "1" : [ null, {
+      "dlt" : false,
+      "produkid" : 1,
+      "reviewdate" : "2019-10-10",
+      "reviewdesc" : "test",
+      "reviewtotal" : 3,
+      "userid" : 1,
+      "username" : "linar"
+    } ],
+    "6" : [ null, {
+      "dlt" : false,
+      "key" : "1",
+      "produkid" : "",
+      "reviewdate" : 1620287630522,
+      "reviewdesc" : "Biasa aja",
+      "reviewtotal" : 3,
+      "userid" : "1",
+      "username" : "Linargian Pratama"
+    } ]
+  },
+  "test" : [ null, {
+    "deskripsi" : "Koko ORIGINAL katun toyobo import Grade A,\r\n\r\n adem lembut nyaman banget dipakai ditambah makin keren pastinya.\r\n",
+    "dlt" : false,
+    "fitur" : "√ Model Koko Modern Style\r\n√ Bahan toyobo import Grade A Terbaik\r\n√ Kancing exclusive\r\n√ kantong dada\r\n√ Jahitan Rapi & Kuat\r\n√ Cocok & Nyaman Dikenakan Sehari hari\r\n\r\n=== KENAPA BELI DI SINI? ===\r\n√ JAMINAN 100% PRODUK ORIGINAL\r\n√ PENGIRIMAN LANGSUNG DARI PUSATNYA\r\n√ FREE ONGKIR*",
+    "harga" : "90000",
+    "kategoriid" : "1",
+    "kategoriname" : "Baju",
+    "key" : "11",
+    "likecount" : 0,
+    "produkcode" : "Koko",
+    "produkdate" : "2021-04-26 08:32:26",
+    "produkid" : 11,
+    "produkmedia" : {
+      "15" : {
+        "dlt" : false,
+        "mediadate" : "2021-04-26 08:32:41",
+        "mediaext" : "jpg",
+        "mediaid" : 15,
+        "medianama" : "15.jpg",
+        "mediasize" : 282973,
+        "mediatype" : "image",
+        "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/11/15.jpg",
+        "produkid" : 11
+      }
+    },
+    "produkmediacount" : 0,
+    "produkname" : "Koko syubbanul muslimin koko azzahir koko baju",
+    "spesifikasi" : "Ukuran M\r\nLingkar Dada: 104\r\nPanjang Lengan: 21\r\nPanjang Baju: 68\r\n\r\nUkuran L\r\nLingkar Dada: 110\r\nPanjang Lengan: 22\r\nPanjang Baju: 70\r\n\r\nUkuran XL\r\nLingkar Dada: 114\r\nPanjang Lengan: 23\r\nPanjang Baju: 72\r\n\r\n\r\n1 Kg = Muat 5pcs",
+    "status" : "approve",
+    "stok" : "10000",
+    "tokoid" : "1",
+    "tokoname" : "Sukses maju"
+  }, {
+    "deskripsi" : "Koko ORIGINAL katun toyobo import Grade A,\r\n\r\n adem lembut nyaman banget dipakai ditambah makin keren pastinya.\r\n",
+    "dlt" : false,
+    "fitur" : "√ Model Koko Modern Style\r\n√ Bahan toyobo import Grade A Terbaik\r\n√ Kancing exclusive\r\n√ kantong dada\r\n√ Jahitan Rapi & Kuat\r\n√ Cocok & Nyaman Dikenakan Sehari hari\r\n\r\n=== KENAPA BELI DI SINI? ===\r\n√ JAMINAN 100% PRODUK ORIGINAL\r\n√ PENGIRIMAN LANGSUNG DARI PUSATNYA\r\n√ FREE ONGKIR*",
+    "harga" : "90000",
+    "kategoriid" : "1",
+    "kategoriname" : "Baju",
+    "key" : "11",
+    "likecount" : 0,
+    "produkcode" : "Koko",
+    "produkdate" : "2021-04-26 08:32:26",
+    "produkid" : 11,
+    "produkmedia" : {
+      "15" : {
+        "dlt" : false,
+        "mediadate" : "2021-04-26 08:32:41",
+        "mediaext" : "jpg",
+        "mediaid" : 15,
+        "medianama" : "15.jpg",
+        "mediasize" : 282973,
+        "mediatype" : "image",
+        "mediaurl" : "https://bishare-48db5.appspot.com.storage.googleapis.com/Produk/11/15.jpg",
+        "produkid" : 11
+      }
+    },
+    "produkmediacount" : 0,
+    "produkname" : "Koko syubbanul muslimin koko azzahir koko baju",
+    "spesifikasi" : "Ukuran M\r\nLingkar Dada: 104\r\nPanjang Lengan: 21\r\nPanjang Baju: 68\r\n\r\nUkuran L\r\nLingkar Dada: 110\r\nPanjang Lengan: 22\r\nPanjang Baju: 70\r\n\r\nUkuran XL\r\nLingkar Dada: 114\r\nPanjang Lengan: 23\r\nPanjang Baju: 72\r\n\r\n\r\n1 Kg = Muat 5pcs",
+    "status" : "approve",
+    "stok" : "10000",
+    "tokoid" : "1",
+    "tokoname" : "Sukses maju"
+  } ],
+  "toko" : {
+    "1" : {
+      "alasan" : "test",
+      "dlt" : false,
+      "foto" : "",
+      "kontak" : "sfasdfa",
+      "status" : "approve",
+      "tokocode" : "T1",
+      "tokodate" : "2021-03-30 06:27:12",
+      "tokodesc" : "stest",
+      "tokoid" : 1,
+      "tokoname" : "Sukses maju",
+      "userid" : "1",
+      "usernama" : "Linargian Pratama"
+    },
+    "2" : {
+      "alasan" : "jelek",
+      "dlt" : true,
+      "foto" : "",
+      "kontak" : "ss",
+      "status" : "pending",
+      "tokocode" : "T2",
+      "tokodate" : "2021-03-30 06:33:10",
+      "tokodesc" : "tes",
+      "tokoid" : 2,
+      "tokoname" : "tko 2",
+      "userid" : "-MWUEjJurR-3VGFUVMoP",
+      "usernama" : "linargian pratama 2"
+    },
+    "3" : {
+      "alasan" : "ok",
+      "dlt" : false,
+      "foto" : "",
+      "kontak" : "stes",
+      "status" : "approve",
+      "tokocode" : "T3",
+      "tokodate" : "2021-03-31 05:27:11",
+      "tokodesc" : "test",
+      "tokoid" : 3,
+      "tokoname" : "Toko 2",
+      "userid" : "-MWUEjJurR-3VGFUVMoP",
+      "usernama" : "linargian pratama 2"
+    },
+    "4" : {
+      "alasan" : "ok",
+      "dlt" : false,
+      "foto" : "",
+      "kontak" : "081919191",
+      "status" : "approve",
+      "tokocode" : "T4",
+      "tokodate" : "2021-04-07 15:37:15",
+      "tokodesc" : "toko menjual baju",
+      "tokoid" : 4,
+      "tokoname" : "jaya",
+      "userid" : "7",
+      "usernama" : "nandika"
+    },
+    "count" : 4
+  },
+  "userchats" : {
+    "1" : [ null, {
+      "lastmessage" : "test",
+      "name" : "Diri Sendiri",
+      "tokoid" : "",
+      "userid" : 1
+    } ],
+    "count" : 1
+  },
+  "users" : {
+    "1" : {
+      "alamat" : "sdfafss",
+      "dlt" : false,
+      "email" : "linargian@kuadranteknologi.com",
+      "jeniskelamin" : "m",
+      "nama" : "Linargian Pratama",
+      "nohp" : "131231",
+      "password" : "admin",
+      "status" : "admin",
+      "tanggallahir" : "2021-03-27",
+      "tokoid" : 1,
+      "usercode" : "Admin",
+      "userdate" : "",
+      "userid" : "1",
+      "username" : "admin"
+    },
+    "2" : {
+      "alamat" : "",
+      "dlt" : false,
+      "email" : "hendro@gmqil.com",
+      "jeniskelamin" : "m",
+      "nama" : "Hendro",
+      "nohp" : "495959",
+      "password" : "123",
+      "status" : "customer",
+      "usercode" : "APP2",
+      "userdate" : 1617940057322,
+      "userid" : 2,
+      "username" : "Hendro"
+    },
+    "4" : {
+      "alamat" : "",
+      "dlt" : false,
+      "email" : "hendro@gmqil.com",
+      "jeniskelamin" : "m",
+      "nama" : "Hendro",
+      "nohp" : "495959",
+      "password" : "123",
+      "status" : "customer",
+      "usercode" : "APP4",
+      "userdate" : 1617940101175,
+      "userid" : 4,
+      "username" : "Hendro"
+    },
+    "6" : {
+      "alamat" : "sfasdf",
+      "dlt" : true,
+      "email" : "steven@gmail.com",
+      "jeniskelamin" : "m",
+      "nama" : "steven",
+      "nohp" : "12313",
+      "password" : "12345",
+      "status" : "customer",
+      "tanggallahir" : "2021-03-16",
+      "tokoid" : "",
+      "usercode" : 6,
+      "userdate" : "2021-03-27 14:25:21",
+      "userid" : 6,
+      "username" : "steven"
+    },
+    "8" : {
+      "alamat" : "",
+      "dlt" : false,
+      "email" : "haikal@gmail.com",
+      "jeniskelamin" : "m",
+      "nama" : "Haikal",
+      "nohp" : "64646",
+      "password" : "123",
+      "status" : "customer",
+      "usercode" : "APP8",
+      "userdate" : 1617941005627,
+      "userid" : 8,
+      "username" : "Haikal"
+    },
+    "-MWUEjJurR-3VGFUVMoP" : {
+      "alamat" : "",
+      "dlt" : false,
+      "email" : "linargian00@gmail.com",
+      "jeniskelamin" : "m",
+      "nama" : "linargian pratama 2",
+      "nohp" : "13131",
+      "password" : "12345",
+      "status" : "penjual",
+      "tanggallahir" : "2021-03-23",
+      "tokoid" : 3,
+      "usercode" : 2,
+      "userdate" : false,
+      "userid" : "-MWUEjJurR-3VGFUVMoP",
+      "username" : "linargian"
+    },
+    "count" : 8
+  }
+}
